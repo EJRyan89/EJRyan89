@@ -1,8 +1,7 @@
-# Ed Ryan
-
 Lead Software Architect in Boston, working on safety-critical medical software. Over twelve years I've moved from
 verification and validation, through full-stack development, to architecture, all on distributed patient monitoring
-systems in a regulated environment.
+systems in a regulated environment. I hold master's degrees in computer science (Boston University) and biomedical
+engineering (University of Connecticut).
 
 ## What I focus on
 
@@ -18,11 +17,3 @@ regulated software is: every change is validated before it touches disk, journal
 by ownership so it never overwrites what it didn't install.
 
 Most of my work lives in private repositories; this is the public corner of it.
-
-## Background
-
-M.S. Computer Science, Boston University · M.S. Biomedical Engineering, University of Connecticut
-
-## Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/ejryan89)
